@@ -1,4 +1,4 @@
-cd "C:\Users\foolo\OneDrive\School\research\macro\just_transition\new\raw"
+cd "..."
 
 /// income share
 wid, indicators(sptinc) perc(p80p100 p90p100 p99p100) years(1990/2024) age(992) pop(j) clear
